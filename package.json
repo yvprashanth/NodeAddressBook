@@ -1,0 +1,19 @@
+{
+  "name": "nodeaddressbook",
+  "version": "1.0.0",
+  "description": "Node Address Book",
+  "main": "parrot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yvprashanth/NodeAddressBook"
+  },
+  "author": "Prashanth Yerramilli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yvprashanth/NodeAddressBook/issues"
+  },
+  "homepage": "https://github.com/yvprashanth/NodeAddressBook"
+}
